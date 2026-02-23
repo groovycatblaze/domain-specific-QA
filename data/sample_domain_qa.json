@@ -1,0 +1,10 @@
+[
+  {
+    "text": "credit risk is the possibility that a borrower will default on their financial obligations.",
+    "label": "credit risk refers to the risk of borrower default."
+  },
+  {
+    "text": "retrieval augmented generation combines vector search with language model generation.",
+    "label": "rag integrates retrieval systems with llms to improve factual accuracy."
+  }
+]
